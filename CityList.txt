@@ -1,0 +1,6 @@
+Moscow +12
+Novosibirsk -5
+Irkutsk 0
+Cheboksary +20
+St.Petersburg +5
+Latvia -1
